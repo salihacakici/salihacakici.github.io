@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Saliha Çakıcı
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+author: salihacakici
+description: Öğrenci Diyetisyen Saliha Çakıcı ile sağlıklı bir diyete kolayca başlayın.
+email: saliha.cakici@gmail.com
+phone: +90 5368646145
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2020 by [zahidcakici](https://github.com/zahidcakici) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Merhaba! Ben <br> Saliha <br> diyetisyeniniz.
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -86,12 +86,12 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+# skills-title: Skills
+# skills:
+#   - { name: Web Design, color: "#fdb157", value: "90%" }
+#   - { name: Logo Design, color: "#9473e6", value: "60%" }
+#   - { name: After Effects, color: "#bdecf6", value: "80%" }
+#   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
