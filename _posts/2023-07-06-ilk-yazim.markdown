@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Şeker Bağımlılığı Sizi Nasıl Etkiler ve Nasıl Kurtulabilirsiniz?
+title:  Ilk Yazim
 date:   2023-07-06 15:05:55 +0300
 image:  /assets/images/blog/post-5.jpg
 author: salihacakici
