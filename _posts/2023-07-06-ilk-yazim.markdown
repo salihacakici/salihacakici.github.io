@@ -2,7 +2,7 @@
 layout: post
 title:  Şeker Bağımlılığı Sizi Nasıl Etkiler ve Nasıl Kurtulabilirsiniz?
 date:   2023-07-06 10:05:55 +0300
-image:  /assets/images/blog/about-5.jpg
+image:  /assets/images/blog/about-5.jpeg
 author: salihacakici
 tags:   Beslenme diyetetik tip-2-diyabet saglik demans
 ---
