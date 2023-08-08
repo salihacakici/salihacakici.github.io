@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Akdeniz Diyeti Nedir? Nasıl Yapılır?
+description: Akdeniz Diyeti Nedir? Nasıl Yapılır? Akdeniz Diyetinin Faydaları Nelerdir?
 date:   2023-08-08 10:05:55 +0300
 image:  /assets/images/media/akdeniz-diyeti-image1.jpeg
 author: salihacakici
