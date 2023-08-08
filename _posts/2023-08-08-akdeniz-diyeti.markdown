@@ -6,12 +6,10 @@ image:  /assets/images/media/akdeniz-diyeti-image1.jpeg
 author: salihacakici
 tags:   Beslenme diyetetik akdeniz-diyeti saglik akdeniz
 ---
-AKDENİZ DİYETİ NEDİR?
+# AKDENİZ DİYETİ NEDİR?
 
-![img1](/assets/images/media/akdeniz-diyeti-image1.jpeg)
-
-Akdeniz Diyeti, dengeli ve sağlıklı beslenmek için renkli ve çeşitli
-beslenmeyi esas alan bitkisel ağırlıklı popüler bir diyet türüdür.
+**Akdeniz Diyeti, dengeli ve sağlıklı beslenmek için renkli ve çeşitli
+beslenmeyi esas alan bitkisel ağırlıklı popüler bir diyet türüdür.**
 
 Bunun yanı sıra diğer diyet örüntülerinden en önemli farkı; hayvansal
 beslenmenin çok yer almamasından kaynaklı su ayak izi ve sera gaz
@@ -20,20 +18,20 @@ emisyonu gibi çevresel etkilerinin düşük olmasıdır.
 Ayrıca balık ve zeytinyağı tüketimi Akdeniz Diyeti'nin olmazsa
 olmazıdır.
 
-AKDENİZ DİYETİ NASIL YAPILIR?
+### AKDENİZ DİYETİ NASIL YAPILIR?
 
   ![img2](/assets/images/media/akdeniz-diyeti-image2.png)
 
-- Her gün üç ana öğün temel besini
+> Her gün üç ana öğün temel besini
     içermelidir. (Tahıllar-sebzeler-meyveler)
 
-- Erişte, makarna, bulgur, pirinç gibi **tam tahıllı** **besinler**
+> Erişte, makarna, bulgur, pirinç gibi tam tahıllı** **besinler**
     her gün 3 porsiyon tüketin.
 
-- Değişik renkteki **sebzeler**den her öğün 1 porsiyonu çiğ olacak
+> Değişik renkteki **sebzeler**den her öğün 1 porsiyonu çiğ olacak
     şekilde 2 porsiyon tüketin.
 
-- Her öğün bol yıkanmış renkli **meyveler** tüketin.
+> Her öğün bol yıkanmış renkli **meyveler** tüketin.
 
 - Yağ olarak kesinlikle günde en az 4 YK **zeytinyağı** tüketin.
 
