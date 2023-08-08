@@ -2,13 +2,13 @@
 layout: post
 title:  Akdeniz Diyeti Nedir? Nasıl Yapılır
 date:   2023-07-06 10:05:55 +0300
-image:  /media/akdeniz-diyeti-image1.jpeg
+image:  /assets/images/media/akdeniz-diyeti-image1.jpeg
 author: salihacakici
 tags:   Beslenme diyetetik akdeniz-diyeti saglik akdeniz
 ---
 AKDENİZ DİYETİ NEDİR?
 
-![](media/akdeniz-diyeti-image1.jpeg)
+![img1](/assets/images/media/akdeniz-diyeti-image1.jpeg)
 
 Akdeniz Diyeti, dengeli ve sağlıklı beslenmek için renkli ve çeşitli
 beslenmeyi esas alan bitkisel ağırlıklı popüler bir diyet türüdür.
@@ -22,7 +22,8 @@ olmazıdır.
 
 AKDENİZ DİYETİ NASIL YAPILIR?
 
-  ![](media/akdeniz-diyeti-image2.png)
+  ![img2](/assets/images/media/akdeniz-diyeti-image2.png)
+
 - Her gün üç ana öğün temel besini
     içermelidir. (Tahıllar-sebzeler-meyveler)
 
@@ -55,7 +56,8 @@ AKDENİZ DİYETİ NASIL YAPILIR?
 
 > AKDENİZ DİYETİNİN FAYDALARI NELERDİR?
 
-![drawing](media/akdeniz-diyeti-image3.jpeg)
+![img3](/assets/images/media/akdeniz-diyeti-image3.jpeg)
+
 - Kolay ve sağlıklı kilo verdirir.
 
 - Bol lif içeriği sebebiyle kabızlığa engel olur ve sindirim
