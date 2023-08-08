@@ -6,7 +6,6 @@ image:  /assets/images/media/akdeniz-diyeti-image1.jpeg
 author: salihacakici
 tags:   Beslenme diyetetik akdeniz-diyeti saglik akdeniz
 ---
-### AKDENİZ DİYETİ NEDİR?
 
 **Akdeniz Diyeti, dengeli ve sağlıklı beslenmek için renkli ve çeşitli
 beslenmeyi esas alan bitkisel ağırlıklı popüler bir diyet türüdür.Bunun yanı sıra diğer diyet örüntülerinden en önemli farkı; hayvansal
@@ -14,27 +13,27 @@ beslenmenin çok yer almamasından kaynaklı su ayak izi ve sera gaz
 emisyonu gibi çevresel etkilerinin düşük olmasıdır. Ayrıca balık ve zeytinyağı tüketimi Akdeniz Diyeti'nin olmazsa
 olmazıdır.**
 
-##### AKDENİZ DİYETİ NASIL YAPILIR?
+#### AKDENİZ DİYETİ NASIL YAPILIR?
 
   ![img2](/assets/images/media/akdeniz-diyeti-image2.png)
 
-* Her gün üç ana öğün temel besini içermelidir(Tahıllar-sebzeler-meyveler)
+1- Her gün üç ana öğün temel besini içermelidir(Tahıllar-sebzeler-meyveler)
 
-* Erişte, makarna, bulgur, pirinç gibi **tam tahıllı** besinler her gün 3 porsiyon tüketin.
+2- Erişte, makarna, bulgur, pirinç gibi **tam tahıllı** besinler her gün 3 porsiyon tüketin.
 
-* Değişik renkteki **sebze**lerden her öğün 1 porsiyonu çiğ olacak şekilde 2 porsiyon tüketin.
+3- Değişik renkteki **sebze**lerden her öğün 1 porsiyonu çiğ olacak şekilde 2 porsiyon tüketin.
 
-* Her öğün bol yıkanmış renkli **meyveler** tüketin.
+4- Her öğün bol yıkanmış renkli **meyveler** tüketin.
 
-- Yağ olarak kesinlikle günde en az 4 YK **zeytinyağı** tüketin.
+5- Yağ olarak kesinlikle günde en az 4 YK **zeytinyağı** tüketin.
 
-- Haftada en az 2 kere balık tüketin. Yumurtayı günaşırı tüketin.
+++ Haftada en az 2 kere balık tüketin. Yumurtayı günaşırı tüketin.
 
-- Beslenmenize her gün fındık, ceviz, kabak çekirdeği gibi yağlı tohumlar ekleyin.
+++ Beslenmenize her gün fındık, ceviz, kabak çekirdeği gibi yağlı tohumlar ekleyin.
 
-- Süt ve ürünlerinin yarım yağlı olmasına dikkat edin.
+++ **Süt** ve ürünlerinin yarım yağlı olmasına dikkat edin.
 
-- **Yağlı tohumlar** olarak söylenen kuruyemişleri ve mercimek, nohut gibi **kurubaklagil** tüketimini artırın.
+++ **Yağlı tohumlar** olarak söylenen kuruyemişleri ve mercimek, nohut gibi **kurubaklagil** tüketimini artırın.
 
 - Günlük **egzersizlerinizi** aksatmayın ve bol bol **su** için.
 
@@ -42,7 +41,7 @@ olmazıdır.**
 
 - Tatlıları nadir, mümkünse sütlü olanlarını tercih edin.
 
-> AKDENİZ DİYETİNİN FAYDALARI NELERDİR?
+#### AKDENİZ DİYETİNİN FAYDALARI NELERDİR?
 
 <img src="/assets/images/media/akdeniz-diyeti-image3.jpeg" alt="img3" width="200">
 
