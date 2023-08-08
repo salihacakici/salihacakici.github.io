@@ -13,7 +13,7 @@ beslenmenin çok yer almamasından kaynaklı su ayak izi ve sera gaz
 emisyonu gibi çevresel etkilerinin düşük olmasıdır. Ayrıca balık ve zeytinyağı tüketimi Akdeniz Diyeti'nin olmazsa
 olmazıdır.**
 
-</br>
+
 
 #### AKDENİZ DİYETİ NASIL YAPILIR?
 
@@ -39,9 +39,9 @@ olmazıdır.**
 
 \* Günlük <b>egzersizlerinizi</b> aksatmayın ve bol bol <b>su</b> için.
 
-\* Etleri nadir ve yağsız tercih edin.
+\* <b>Et</b>leri nadir ve yağsız tercih edin.
 
-\* Tatlıları nadir, mümkünse sütlü olanlarını tercih edin.
+\* <b>Tatlı</b>ları nadir, mümkünse sütlü olanlarını tercih edin.
 
 #### AKDENİZ DİYETİNİN FAYDALARI NELERDİR?
 
