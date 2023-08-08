@@ -19,58 +19,50 @@ olmazıdır.**
 
   ![img2](/assets/images/media/akdeniz-diyeti-image2.png)
 
-1- Her gün üç ana öğün temel besini içermelidir(Tahıllar-sebzeler-meyveler)
+\* Her gün üç ana öğün temel besini içermelidir(Tahıllar-sebzeler-meyveler)
 
-2- Erişte, makarna, bulgur, pirinç gibi <b>tam tahıllı</b> besinler her gün 3 porsiyon tüketin.
+\* Erişte, makarna, bulgur, pirinç gibi <b>tam tahıllı</b> besinler her gün 3 porsiyon tüketin.
 
-3- Değişik renkteki <b>sebze</b>lerden her öğün 1 porsiyonu çiğ olacak şekilde 2 porsiyon tüketin.
+\* Değişik renkteki <b>sebze</b>lerden her öğün 1 porsiyonu çiğ olacak şekilde 2 porsiyon tüketin.
 
-4- Her öğün bol yıkanmış renkli **meyveler** tüketin.
+\* Her gün bol yıkanmış renkli <b>meyveler</b> tüketin.
 
-5- Yağ olarak kesinlikle günde en az 4 YK **zeytinyağı** tüketin.
+\* Yağ olarak kesinlikle günde en az 4 YK <b>zeytinyağı</b> tüketin.
 
-++ Haftada en az 2 kere balık tüketin. Yumurtayı günaşırı tüketin.
+\* Haftada en az 2 kere balık tüketin. Yumurtayı günaşırı tüketin.
 
-++ Beslenmenize her gün fındık, ceviz, kabak çekirdeği gibi yağlı tohumlar ekleyin.
+\* Beslenmenize her gün fındık, ceviz, kabak çekirdeği gibi yağlı tohumlar ekleyin.
 
-++ **Süt** ve ürünlerinin yarım yağlı olmasına dikkat edin.
+\* Süt ve ürünlerinin yarım yağlı olmasına dikkat edin.
 
-++ **Yağlı tohumlar** olarak söylenen kuruyemişleri ve mercimek, nohut gibi **kurubaklagil** tüketimini artırın.
+\* <b>Yağlı tohumlar</b> olarak söylenen kuruyemişleri ve mercimek, nohut gibi <b>kurubaklagil</b> tüketimini artırın.
 
-++ Günlük <b>egzersizlerinizi</b> aksatmayın ve bol bol <b>su</b> için.
+\* Günlük <b>egzersizlerinizi</b> aksatmayın ve bol bol <b>su</b> için.
 
-- Etleri nadir ve yağsız tercih edin.
+\* Etleri nadir ve yağsız tercih edin.
 
-- Tatlıları nadir, mümkünse sütlü olanlarını tercih edin.
+\* Tatlıları nadir, mümkünse sütlü olanlarını tercih edin.
 
 #### AKDENİZ DİYETİNİN FAYDALARI NELERDİR?
 
-<img src="/assets/images/media/akdeniz-diyeti-image3.jpeg" alt="img3" width="600">
+<img src="/assets/images/media/akdeniz-diyeti-image3.jpeg" alt="img3" width="400">
 
-- Kolay ve sağlıklı kilo verdirir.
+1- Kolay ve sağlıklı kilo verdirir.
 
-- Bol lif içeriği sebebiyle kabızlığa engel olur ve sindirim
-    sorunlarına engel olur.
+2- Bol lif içeriği sebebiyle kabızlığa engel olur ve sindirim sorunlarına engel olur.
 
-- Özellikle kırmızı etten sınırlı olması sebebiyle doymuş yağ tüketimi
-    azalır bu da kalp-damar sağlığını korur.
+3- Özellikle kırmızı etten sınırlı olması sebebiyle doymuş yağ tüketimi azalır bu da kalp-damar sağlığını korur.
 
-- Zeytinyağı tüketiminin artmasıyla kanda iyi kolesterol olarak
-    bilinen HDL düzeyi artar, LDL (kötü kolesterol) düzeyi ise azalır.
+4- Zeytinyağı tüketiminin artmasıyla kanda iyi kolesterol olarak bilinen HDL düzeyi artar, LDL (kötü kolesterol) düzeyi ise azalır.
 
-- Sarımsak, soğan, pırasa ve lahana gibi antioksidan besinler
-    bağışıklığı güçlendirir ve kansere karşı koruyucu etki gösterir.
+5- Sarımsak, soğan, pırasa ve lahana gibi antioksidan besinler bağışıklığı güçlendirir ve kansere karşı koruyucu etki gösterir.
 
-- Fındık, fıstık, ceviz, kuru fasulye, nohut; içerdikleri E vitamini
-    ve çinko ile kan lipitlerini düşürüp kan şekerini denetler.
+6- Fındık, fıstık, ceviz, kuru fasulye, nohut; içerdikleri E vitamini ve çinko ile kan lipitlerini düşürüp kan şekerini denetler.
 
-- Akdeniz Diyetinde önerilen havuç, kayısı, turunçgiller, böğürtlen,
-    ahududu, kızılcık ve lahana gibi sebze ve meyveler; C ve E vitamini
-    deposudur. Bu gıdalar LDL kan lipitlerini düşürüyor.
+7- Akdeniz Diyetinde önerilen havuç, kayısı, turunçgiller, böğürtlen, ahududu, kızılcık ve lahana gibi sebze ve meyveler; C ve E vitamini deposudur. Bu gıdalar LDL kan lipitlerini düşürüyor.
 
-- Alzehimer ve Parkinson gibi hastalıklarına yakalanma riskini
-    azaltır.
+8- Alzehimer ve Parkinson gibi hastalıklarına yakalanma riskini azaltır.
 
-- Tip-2 Diyabet görülme riskini azaltır.
+9- Tip-2 Diyabet görülme riskini azaltır.
 
-- Kalp krizi riskini azaltır.
+10- Kalp krizi riskini azaltır.
